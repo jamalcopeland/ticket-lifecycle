@@ -27,25 +27,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/user-attachments/assets/95ab4156-d8c3-4a27-9ee8-f7806aea6d36)
 
-### Step 1: Create a Ticket
+### Create a Ticket (Online Banking System Down)
 - Navigate to the end user portal
 - Create a ticket as a customer/employee with an issue
+- Specify details and pick a help topic
+- Since banking system is down, specify business critical outage
 <br />
 
 ![image](https://github.com/user-attachments/assets/1e20615a-7f0f-4f28-bed0-930f17381600)
 
 ### Step 2: Observe Ticket as Help-Desk Agent
-- Assign Service Level Agreement
-- Assigned the ticket to the appropriate team
+- Assign Service Level Agreement (Sev-A: 1 hour high priority)
+- Assigned the ticket to the appropriate team (Online Banking Team)
 <br />
 
 ![image](https://github.com/user-attachments/assets/8d119088-cf6f-4d32-a983-f9fc353abce2)
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+### Step 3: Resolve the Ticket as Assigned Agent 
+- Maintain communication
+- Work the ticket to completion
+- Resolve the ticket
 <br />
